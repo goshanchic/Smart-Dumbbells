@@ -4,7 +4,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <!-- Убедитесь, что элемент имеет правильный id -->
     <com.example.a3aaaa.GraphView
         android:id="@+id/graphView"
         android:layout_width="match_parent"
